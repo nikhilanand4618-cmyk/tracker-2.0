@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "tacker",
+    "name": "Tacker",
+    "description": "Spider Slayer drop HUD tracker",
+    "version": "1.0.0",
+    "mcversion": "1.8.9",
+    "authorList": ["Tacker"]
+  }
+]
